@@ -1,0 +1,151 @@
+INDICATOR_ID,INDICATOR_NAME_RAW
+1,Porcentaje de muestras de agua para la ciudad de Bilwi que cumplen con las normas nacionales de calidad del agua
+2,AS y AR interceptadas en las 12 subcuencas objeto del programa
+3,Municipios con planes integrales de drenaje pluvial elaborados
+4,Cantidad de materia orgánica removida de los vertidos al río Uruguay
+5,Hogares afectados por las obras de la PTAR de San Lorenzo reasentados de acuerdo con los criterios de Banco(OP-710
+6,Continuidad del servicio de agua potable en Buenaventura.
+7,Plantas de Tratamiento de Aguas Residuales (PTAR) operando según especificaciones de diseño en ciudades menores e intermedias de más de 2.000 habitantes intervenidas por el programa.
+8,Porcentaje de hogares con conexión domiciliaria a la red de agua potable según niveles de continuidad del servicio en la ciudad de Bilwi (Entre 10 y 19 días al mes)
+9,Normativas municipales para la adopción de micro drenaje y pavimentación sustentables homologadas.
+10,Capacidad de inspección e intervención de los ríos subterráneos
+11,Biosólidos Tratados y dispuestos de forma ambientalmente apropiada
+12,1.Hogares con nuevo acceso a agua potable en el área de intervención del programa (AIDP)
+13,Cantidad de agua almacenada en las presas construidas por el proyecto
+14,4.1 Reducción del costo promedio de energía eléctrica por m3 producido de los OO participantes
+15,Número de hogares del área urbana del municipio de Mocoa cuyas aguas residuales son tratadas
+16,Hogares con servicio de desagües cloacales facturado
+17,Importación de aires acondicionados con etiquetado que cumplen índices mínimos de eficiencia energética
+18,Hogares no indígenas con acceso domiciliar a agua potable a través de nuevos sistemas en red
+19,Número de prestadores pequeños que operan en el área jurisdiccional de ESSAP en San Lorenzo
+20,Porcentaje de Operadores que implementan al menos una acción de mejora prevista en la estrategia de Genero.
+21,Eficiencia en la Cobranza (Monto Recaudado/Monto Facturado
+22,Caudal promedio potabilizado por día en áreas de intervención
+23,Hogares con conexiones de agua mejoradas en la zona oeste y central de Ciudad de la Costa
+24,Hogares cuyas aguas residuales son tratadas
+25,Sistemas de agua potable y sanemiento que disponen de un plan de operación y mantenimiento en ejecución al terminadas las obras en las zonas intervenidas
+26,Hogares con conexión al sistema  de alcantarillado por redes mejoradas en Quibdó
+27,Hogares indígenas con acceso domiciliar a agua potable en zona de intervención
+28,"Demanda Bioquímica de Oxígeno, aguas arriba de la PTAR de Bello. (Estación Puente Machado)"
+29,Caudal de agua cruda tratado
+30,Facturación por concepto de Tarifa de Saneamiento en Montevideo
+31,"Hogares con conexión a servicios básicos (agua y cloaca) clasificados con calidad ""satisfactoria"" según INDEC, en las provincias de intervención"
+32,Mujeres que forman parte de un EPSA en comunidades menores a 2000 habitantes
+33,TIRE de los proyectos de la muestra en comunidades de menos de 2000 habitantes
+34,Calidad del agua producida en la Planta Gral. San Martín
+35,Hogares protegidos de riesgo de inundaciones con período de retorno de 2 a 10 años en las ciudades priorizadas
+36,Eficiencia en la cobranza (Recaudo/Ingresos de Operacion)
+37,Evasión del ICMS
+38,Número de hogares con acceso nuevo a la red de alcantarillado en el área urbana del municipio de Mocoa
+39,Hogares en comunidades menores a 2.000habitantes con acceso mejorado a agua potable por red.
+40,Sistemas de saneamiento en localidades intervinientes operando y en mantenimiento según especificaciones técnicas de diseño
+41,Hogares con acceso mejorado a agua potable en El Alto. Definición de mejorado: horas de continuidad del servicio de 24 horas por día
+42,Hogares beneficiados por la construcción o rehabilitación de sistemas de saneamiento en zonas rurales
+43,Disponibilidad de agua en la Cuenca Katari para diferentes usos
+44,Hogares indígenas cuyas aguas residuales son tratadas
+45,"Porcentaje de hogares con nivel de continuidad del servicio ""Precario"" en el área metropolitana de Santiago"
+46,6.Reducción en el Índice de Pérdidas de Distribución en la zona central (ZC)
+47,Hogares en localidades de 2000 a 10000 habitantes con nuevo acceso a agua potable
+48,Hogares cuyas aguas residuales son tratadas
+49,Escuelas o centros médicos con servicio de energía conectadas al SIN o con soluciones aisladas en las ZNI en los municipios beneficiados
+50,"Operadores con Autosuficiencia financiera (ingresos tarifarios/costos de operación, mantenimiento y administración > 1)"
+51,Households with new connection to sewerage network
+52,Tons of greenhouse gas emissions avoided  associated to energy production by the biodigester plant in Xalapa
+53,"Water samples in program areas that comply with national water quality standards, and in accordance with the procedures specified by such standards"
+54,Malabar: Percentage of population in the catchment covered by the WWTP  (percentage)
+55,Households with treated wastewater
+56,Wastewater quality samples complying with effluent standards for rehabilitated plants in program area
+57,Hiring contract between a National public institution and new entity to manage the PIC signed
+58,Large commercial customers billed in accordance to metered consumption
+59,Economic damages caused by flood in the project area
+60,Cobertura de agua potable a nivel nacional
+61,Revenue collected/Operating cost
+62,N# of Production Meters replaced
+63,"Technical, environmental and economic studies agreed and approved by the Municipality and stakeholders to build the Campeche infrastructure project"
+64,Soil-Transmitted Helminthiases (STH) and Lymphatic filariasis (LF) prevalence estimated
+65,Households with treated wastewater
+66,Hospitals (1 public and 3 private) reporting that healthcare waste is appropriately collected
+67,"Systems designed, implemented, operating and maintained according to social and environmental specifications"
+68,Households connected to an upgraded water supply network
+69,Porcentagem de recicladores informais do Lixão do Jóquei Club participando de cooperativas
+70,Annual performance benchmarks met by new PIC management entity to obtain Satisfactory Performance Rating
+71,Tons of solid waste disposed in sanitary landfill in Belize
+72,Wastewater treated
+73,Amount billed monthly to tenants that are collected by the management entity in charge of the PIC
+74,Park operating and opened to the public
+75,Prevalence of the Geo-helminths in Port-au-Prince
+76,San Fernando: Percentage of wastewater treated  by the WWTP meeting the Water Pollution Rules (percentage) and having a zero or positive net impact on downstream water quality (in relation to upstream water quality)
+77,Percentage of physical assets in good conditions in KSA
+78,Households with improved access to water supply in parish towns areas
+79,Households with solid waste disposed in a sanitary landfill in Belize
+80,Organizations participating in awareness building activities
+81,Households with new or upgraded sanitary connections.
+82,Tons of compost produced by the biodigester in Xalapa
+83,Compost generated
+84,Households changing from using private individual wells to becoming clients of the Water and Sewerage Corporation (WSC)
+85,Water and Sewerage Corporation (WSC) licence from economic regulator
+86,Households with improved water supply in KSA with direct connection
+87,Households with treated wastewater
+88,Healthcare waste adequately disposed
+89,"Water samples meeting water quality national regulations, in accordance with national procedures"
+90,Energy Consumption in the 8 pilot facilities
+91,Corporate governance policies and compliance report disclosure of WASA<U+FFFD>s web page
+92,Level of Non Revenue Water (NRW) in areas targeted by the project through the Non Revenue Water (NRW) program
+93,Recyclable waste sorted for sale
+94,Percentage of tourist destinations with access to sanitary landfills (Country Strategy indicator)
+95,Solid waste produced within the PIC that is adequately disposed (in a sanitary landfill or composted)
+96,Proper management of the CGIRS by the SAM
+97,Households connected to an improved sanitation network
+98,Hazardous solid waste produced within the PIC that are adequately  stored (long term storage facility)
+99,Wastewater flow (million imperial gallons (MIG)) treated daily
+100,New information sharing mechanism established
+101,Lugares com serviço de abastecimento de água melhorado ou implantado
+102,Residências com novo acesso domiciliar a saneamento
+103,Coleta e destinação adequada de esgoto das edificações das áreas da sub-bacia do São Raimundo
+104,Produtores que participam de atividades do Programa de Desenvolvimento Local e inclusão sócio-econômica de micro e pequenos empreendedores urbanos e de produtores rurais familiares (4PCM) de Maués
+105,índice de agua no contabilizada
+106,Residuos Sólidos para aprovechameinto en Potosí
+107,R06: Cobertura do sistema de monitoramento de quantidade e qualidade da água CART
+108,Carga orgânica removida
+109,Aumento do Índice de Salubridade Ambiental (ISA) da Bacia do Córrego 1º de Maio
+110,Concentração de Oxigênio Dissolvido (OD) no ponto de coleta Estação 46
+111,Economias com baixa renda (tarifa social) ligados na rede coletora de esgoto no município de Joinville
+112,Economias com tratamento de esgoto  na cidade de Joinville.
+113,Domicílios beneficiados com proteção de inundação
+114,R6. Continuidade média de fornecimento de água na área de abastecimento da ETA 01
+115,R09: Mulheres treinadas em atividades produtivas e direitos das mulheres
+116,"Indice de Tratamento do esgoto coletado na RMSP, na área de atuação da SABESP."
+117,Coliformes fecais termotolerantes no Ponto 2
+118,R1.Domicilios protegidos do risco de inundação (periodo de retorno de 50 anos) nas 3 áreas focalizadas.
+119,Planos aprovados
+120,Inspeções realizadas pelo IBRAM
+121,"Internações por  ano por enfermidades diarréicas agudas (de transmissão hídrica) em menores de 5 anos (casa 100.000 habitantes) na área de intervenção do Programa e áreas vizinhas (Bairros: Itacaranha, Rio Sena, Alto da Terezinha e Plataforma)"
+122,Aumento do valor dos imóveis localizados na área das lagoas (econômico)
+123,Capacidade de retenção de águas no trecho superior da bacia do rio Tietê
+124,Residências inundadas na área de intervenção do Programa
+125,Superficie às margens do rio Ipojuca e entorno de reservatórios reabilitadas para proteção dos recursos hídricos.
+126,Valor médio do aluguel dos imóveis localizados a até 650 m das margens dos córrego Macambira
+127,Visitantes ao município de Maués
+128,Débitos recuperados
+129,Percentagem de estações hidrometeorológicas reabilitadas e em funcionamento.
+130,Famílias conectadas ao sistema de tratamento secundário de esgoto (Sistema Baixada Fluminense)
+131,Concentração de OD (Oxigenio Dissolvido) no ponto de monitoramento NA 741 (Estação Alcantara)
+132,Aumento do Índice de Salubridade Ambiental (ISA) da Bacia do Córrego N. Sra da Piedade
+133,"Amostras de água em Porto de Galinhas que cumprem com as normas nacionais de qualidade de água, segundo os procedimentos estabelecidos pelo Ministério  da Saúde -  No 2914/2011."
+134,DBO5 (Demanda bioquímica de Oxigênio) no Ponto 1
+135,Documentos disponíveis em tempo real
+136,Carga contaminada interceptada nos cursos d'água
+137,Resíduos sólidos coletados nos pontos de intervenção do programa piloto
+138,Famílias que habitam em área de risco de alagamento no Igarapé Mestre Chico
+139,R10. Relatório anual das brechas de gênero disponíveis na Secretaria Municipal da Mulher
+140,Domicílios protegidos de riscos de Inundação
+141,"R04: Domicílios com acesso a rede domiciliar de agua potável com qualidade do serviço (pressão, qualidade e regularidade e continuidade) melhorado nas sub bacias 1 e 2 da Bacia da Estrada Nova"
+142,Tempo de análise de EIA/RIMA no âmbito do IBRAM-SEMA-CONAM
+143,Número de Acessos ao Sistema de Gestão Ambiental
+144,R8. Porcentagem anual do valor da obra em operação no Programa destinado para manutenção
+145,Resíduos sólidos municipais tratados e/ou com disposição final adequada no DF
+146,R01: Usuários do parque construído pelo Programa
+147,Indicador de Padrões de Efluentes de Esgotos
+148,Vazão de produção
+149,Valorização de imóveis situados a até 200 metros das obras
+150,Resíduos sólidos gerados na cidade de Maués enviado ao aterro sanitário considerando uma produção de 25 t/dia
